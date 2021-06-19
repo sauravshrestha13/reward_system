@@ -140,13 +140,13 @@ Also, for testing purpose, there is a feature provided in customer section to tr
 
 
 #### Customers Page:
-![Test Image 1](https://github.com/sauravshrestha13/reward_system/blob/main/customers.png)
+![Test Image 1](https://github.com/sauravshrestha13/reward_system/blob/master/customers.png)
 
 #### Orders Page:
-![Test Image 2](https://github.com/sauravshrestha13/reward_system/blob/main/orders.png)
+![Test Image 2](https://github.com/sauravshrestha13/reward_system/blob/master/orders.png)
 
 #### Rewards Page:
-![Test Image 2](https://github.com/sauravshrestha13/reward_system/blob/main/rewards.png)
+![Test Image 2](https://github.com/sauravshrestha13/reward_system/blob/master/rewards.png)
 
 #### Expiry Log Page:
-![Test Image 2](https://github.com/sauravshrestha13/reward_system/blob/main/expiry_log.png)
+![Test Image 2](https://github.com/sauravshrestha13/reward_system/blob/master/expiry_log.png)
