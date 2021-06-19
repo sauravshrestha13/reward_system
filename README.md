@@ -1,6 +1,6 @@
 ## Reward System
 
-This repositoy contains a simple reward system, developed for the coding challenge test at Kagati Incorporation. The project is developed in Laravel Framework 7 .30 .4
+This repositoy contains a simple reward system, developed for the coding challenge test at Kagati Incorporation. The project is developed in Laravel Framework 7.30.4 .
 
 ## Installation
 
