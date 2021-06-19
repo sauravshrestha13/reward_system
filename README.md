@@ -63,7 +63,7 @@ Currently 3 currencies (USD, NPR and INR) with corresponding conversion factor t
 ### Customers
 Currently 3 customers with each of above mentioned currency is seeded into database. The customer list is displayed in customers section with their total sales, total reward earned and current credit points. 
 <br>
-Following features are allowd in customer section.
+Following features are available in customer section.
 <ul>
     <li>User can view reward points earned by customers.</li>
     <li>User can view expired reward points of customers.</li>
