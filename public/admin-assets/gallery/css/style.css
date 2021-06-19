@@ -1,0 +1,15 @@
+
+.my-gallery img {
+  width: 100%;
+  height: auto;
+}
+.my-gallery figure {
+  display: block;
+  width: 172px;
+  height:172px;
+  float: left;
+  margin:0;
+}
+.my-gallery figcaption {
+  display: none;
+}
