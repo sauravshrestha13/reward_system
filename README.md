@@ -96,13 +96,13 @@ Rewards are calculated once the "Mark as Completed" button is pressed. The compl
         Reward expiry date is evaluated by adding a year to current date. 
     </li>
     <li>
-        New reward record in entered in rewards table.
+        New reward record is entered in rewards table.
     </li>
     <li>
         Status of order is marked as "Completed"
     </li>
     <li>
-       Reward points are added to 'credit' field of customer.
+       Reward points are added to 'credit' field of customer table.
     </li>
 </ul>
 
@@ -130,7 +130,7 @@ The expiry check of the rewards points are expected to be performed by running c
         Set status to "Expired" in records of rewards table by date comparison.
     </li>
     <li>
-        A new record is entered into expired logs table.
+        A new record is then entered into expired_logs table.
     </li>
 </ul>
 
